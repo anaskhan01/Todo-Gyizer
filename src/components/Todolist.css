@@ -1,0 +1,40 @@
+.tasks {
+    display: flex;
+    align-items: center;
+    height: 72px;
+    width: 345px;
+    background: #242320;
+    border: 1px solid #FF8303;
+    border-radius: 8px;
+    padding-top: 3px;
+    padding-left: 16px;
+    padding-right: 16px;
+    justify-content: space-between;
+    margin: 35px;
+}
+
+.t-head {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    color: #F0E3CA;
+    margin: 0px;
+}
+
+.t-subhead {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #F0E3CA;
+    margin: 0px;
+}
+
+.t-textbox{
+}
+
+.i{
+    width: 50px;
+    margin: 0px;
+}

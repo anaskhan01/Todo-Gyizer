@@ -1,0 +1,16 @@
+.body{
+}
+
+.t-container{
+    display: flex;
+    align-items: center;
+    height: 200px;
+    margin-right: 67px;
+    margin-left: 67px;
+    margin-top: 156px;
+    background: #242320;
+    border: 1px solid #FF8303;
+    border-radius: 8px;
+    margin-bottom: 6px;
+}
+

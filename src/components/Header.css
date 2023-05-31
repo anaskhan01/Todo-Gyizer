@@ -1,0 +1,36 @@
+.header {
+    height: 82px;
+    border: 2px solid #A35709;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    /* box-shadow: 1px 1px 20px #A35709; */
+    display: flex;
+    align-items: center;
+    background-color: #242320;
+}
+
+.h-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 48px;
+    margin-bottom: 0;
+}
+
+.h-stext {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #F0E3CA;
+    margin-top: 2px;
+    margin-left: 48px;
+    margin-bottom: 18px;
+}
+
+.text-box{
+    
+}
